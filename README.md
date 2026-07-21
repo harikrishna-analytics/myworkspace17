@@ -1,20 +1,142 @@
-About Me
-Hi, I’m Hanraj Hari Krishna, an aspiring Data Analyst with expertise in SQL, Python, Power BI, and Advanced Excel. I am passionate about using data to solve problems and drive business decisions. My experience includes working with large datasets, data cleaning, analysis, and visualization to deliver actionable insights.
+<div align="center">
 
-I’m currently doing a Data Analyst Internship at Innobytes Services, where I focus on data cleaning, building Power BI dashboards, and analyzing data to support decision-making. I also previously interned at Unified Mentor, where I worked on automating reporting and creating interactive dashboards. Additionally, I gained Python development experience during my internship at Coding Samurai, where I developed Python applications and automated various tasks.
+# 👋 Hi, I'm Hari Krishna
 
-Key Skills:
+### 📊 Data Analyst | Business Intelligence | SQL • PostgreSQL • MySQL • Power BI
 
-Data Analysis: SQL, Python (Pandas, NumPy)
-Data Visualization: Power BI, Tableau
-Advanced Excel: Pivot Tables, VLOOKUP, Macros
-Data Wrangling: Cleaning, Preprocessing
-Key Projects:
+*"Transforming data into meaningful business insights through analytics, visualization, and storytelling."*
 
-Bank Customer Churn Analysis: Analyzed customer churn data, built predictive models, and developed Power BI dashboards to identify at-risk customers and improve retention strategies.
-Adidas Sales Analysis: Analyzed Adidas sales data to identify trends, forecast future sales, and optimize inventory and marketing strategies using Power BI and Excel.
-Customer Churn Analysis: Created Power BI dashboards to identify churn trends and improve retention strategies.
-Retail Sales Analysis: Developed dashboards to analyze sales trends and optimize strategies.
-E-commerce Sales Analysis: Built dashboards for marketing insights and performance tracking.
-I’ve completed certifications in Data Analysis with Python (IBM), SQL for Data Analysis (Simplilearn), and more. I’m always looking for opportunities to learn and collaborate on data-related projects. Feel free to explore my work on GitHub or connect with me on LinkedIn!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hari-krishna-178397145)
+[![GitHub](https://img.shields.io/badge/GitHub-myworkspace17-black?logo=github)](https://github.com/myworkspace17)
 
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a **Data Analyst** passionate about transforming raw data into actionable business insights.
+
+I enjoy designing relational databases, writing analytical SQL queries, building interactive Power BI dashboards, and delivering data-driven solutions that help organizations make informed business decisions.
+
+My goal is to bridge the gap between data and decision-making by combining technical expertise with business storytelling.
+
+---
+
+# 💼 What I Do
+
+- 📊 Develop Interactive Power BI Dashboards
+- 🗄 Design Relational Databases
+- 🧩 Build Business-Oriented SQL Solutions
+- 📈 Create Executive KPI Dashboards
+- 📑 Perform Data Modeling & DAX Development
+- 🔄 Automate Reports using Power Query & Excel
+- 📖 Transform Business Data into Actionable Insights
+
+---
+
+# 🛠 Tech Stack
+
+### 📊 Business Intelligence
+
+- Power BI
+- DAX
+- Power Query
+
+### 🗄 Databases
+
+- PostgreSQL
+- MySQL
+
+### 💻 Programming & Query Languages
+
+- SQL
+- Python *(Learning for Data Analytics)*
+
+### 📈 Analytics
+
+- Advanced Excel
+- Data Analysis
+- Business Intelligence
+- Dashboard Development
+- KPI Reporting
+
+### 🔧 Tools
+
+- Git
+- GitHub
+- pgAdmin
+- MySQL Workbench
+- Microsoft Excel
+
+---
+
+# 🌟 Featured Projects
+
+## 🇮🇳 India Economic Intelligence
+
+**End-to-End Business Intelligence Project**
+
+A comprehensive analytics solution analyzing India's macroeconomic indicators, commodity prices, inflation, fuel prices, exchange rates, and major economic events.
+
+### Project Highlights
+
+- PostgreSQL Database Design
+- SQL Analytics
+- Power BI Dashboards
+- DAX Measures
+- Business Storytelling
+- Economic Trend Analysis
+
+---
+
+## 🤖 AI Workforce Analytics
+
+**HR & Business Intelligence Project**
+
+An end-to-end analytics solution designed to analyze workforce performance, payroll, employee satisfaction, AI adoption, and training effectiveness.
+
+### Project Highlights
+
+- HR Analytics
+- Workforce KPI Reporting
+- SQL Query Development
+- PostgreSQL Database
+- Executive Power BI Dashboards
+- AI Adoption Insights
+
+---
+
+# 📚 Currently Learning
+
+- Financial Data Analytics
+- Advanced SQL
+- Business Storytelling
+- Python for Analytics
+- Data Visualization Best Practices
+
+---
+
+# 🎯 Career Objective
+
+To contribute as a Data Analyst by building scalable Business Intelligence solutions that transform complex data into strategic insights and support informed business decisions.
+
+---
+
+# 🤝 Let's Connect
+
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/hari-krishna-178397145
+
+💻 **GitHub**  
+https://github.com/myworkspace17
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Turning data into decisions through analytics, visualization, and continuous learning."*
+
+</div>
